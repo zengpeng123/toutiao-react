@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div>Jenkins</div>
-      <div>Jenkins</div>
+      <div>Jenkins Test</div>
       <TabBar />
     </div>
   )
