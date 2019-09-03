@@ -5,10 +5,10 @@ import TabBar from './views/TabBar';
 function App() {
   return (
     <div className="App">
-      <div>111</div>
+      <div>Jenkins</div>
       <TabBar />
     </div>
-  );
-}
+  )
+};
 
 export default App;
